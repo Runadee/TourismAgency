@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="view.EmployeeGUI">
   <grid id="27dc6" binding="container" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
-    <margin top="0" left="0" bottom="0" right="0"/>
+    <margin top="10" left="10" bottom="10" right="10"/>
     <constraints>
-      <xy x="20" y="20" width="1166" height="549"/>
+      <xy x="20" y="20" width="1166" height="597"/>
     </constraints>
     <properties/>
     <border type="none"/>
@@ -20,7 +20,7 @@
         <border type="none"/>
         <children>
           <grid id="85735" binding="pnl_hotel" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
-            <margin top="0" left="0" bottom="0" right="0"/>
+            <margin top="10" left="10" bottom="10" right="10"/>
             <constraints>
               <tabbedpane title="Hotels"/>
             </constraints>
