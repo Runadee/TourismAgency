@@ -19,12 +19,3 @@ Historical periods for hotels are added, and pricing is determined based on thes
 
 ---
 
-[url=https://hizliresim.com/c8a4tcb][img]https://i.hizliresim.com/c8a4tcb.png[/img][/url]
-
-[url=https://hizliresim.com/83axer4][img]https://i.hizliresim.com/83axer4.png[/img][/url]
-
-[url=https://hizliresim.com/5v33m0h][img]https://i.hizliresim.com/5v33m0h.png[/img][/url]
-
-[url=https://hizliresim.com/4kd2rsd][img]https://i.hizliresim.com/4kd2rsd.png[/img][/url]
-
-[url=https://hizliresim.com/4co6x5x][img]https://i.hizliresim.com/4co6x5x.png[/img][/url]
