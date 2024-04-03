@@ -19,3 +19,9 @@ Historical periods for hotels are added, and pricing is determined based on thes
 
 ---
 
+
+<img width="353" alt="Ekran Resmi 2024-04-03 10 31 20" src="https://github.com/Runadee/TourismAgency/assets/134780868/35c4eaf6-0eaf-4c94-8eb2-2ff890acc100">
+<img width="804" alt="Ekran Resmi 2024-04-03 10 36 24" src="https://github.com/Runadee/TourismAgency/assets/134780868/74acdf7b-c505-4a64-9d41-a321c9363671">
+<img width="1303" alt="Ekran Resmi 2024-04-03 10 37 25" src="https://github.com/Runadee/TourismAgency/assets/134780868/2f0941a9-8908-4c66-b42c-cfdf583c4ead">
+<img width="1303" alt="Ekran Resmi 2024-04-03 10 38 03" src="https://github.com/Runadee/TourismAgency/assets/134780868/29170364-aa9c-48af-8372-83018f40255e">
+<img width="1303" alt="Ekran Resmi 2024-04-03 10 38 41" src="https://github.com/Runadee/TourismAgency/assets/134780868/ea9b46f5-6f00-44b6-8d20-ee1118738e3b">
